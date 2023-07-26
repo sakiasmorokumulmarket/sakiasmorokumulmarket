@@ -13,13 +13,17 @@ To 🛠️ Intergrate Artificial Intelligence model into the system to drive Mar
 
 ### Contacts
 
+✓ Email
+
 laiamsakiasmoro@gmail.com
 sakiasmoro@gmail.com
-## Phone number
+
+✓✓ Phone number
+
++675 81746234
 +675 78336234
+
 
 #### ®™ Privacy policy
 
-sakiasmorokumulmarket/sakiasmorokumulmarket is a ✨ special ✨ repository because its `README.md` (this; file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-$ Payment portal
+
