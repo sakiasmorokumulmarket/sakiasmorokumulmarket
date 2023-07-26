@@ -4,7 +4,7 @@ Kumul Market is a Visual Arts and Physical Arts Marketing platform built to fast
 # B2B and P2P Trading
 [The business operating system is Technically analyst to boost trap the trading Efficiently and Effectively
 
-### AI Intergovernmental
+### AI Intergration 
 
 To 🛠️ Intergrate Artificial Intelligence model into the system to drive Marketing sergement and utilize the trends to watchlist.
 
@@ -18,6 +18,7 @@ sakiasmoro@gmail.com
 ## Phone number
 +675 78336234
 
+#### ®™ Privacy policy
 
 sakiasmorokumulmarket/sakiasmorokumulmarket is a ✨ special ✨ repository because its `README.md` (this; file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
