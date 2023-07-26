@@ -11,8 +11,8 @@ To 🛠️ Intergrate Artificial Intelligence model into the system to drive Mar
 
 (>how to reach me Via)//
 
-📲
-* mail
+### Contacts
+
 laiamsakiasmoro@gmail.com
 sakiasmoro@gmail.com
 ## Phone number
