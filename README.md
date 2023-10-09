@@ -9,11 +9,9 @@ Kumul Market is a Visual Arts and Physical Arts Marketing platform built to fast
 To 🛠️ Intergrate Artificial Intelligence model into the system to drive Marketing sergement and utilize the trends to watchlist.
 
 
-(>how to reach me Via)//
-
-### Contacts
-
-✓ Email
+          Contacts
+       
+           Email
 
 laiamsakiasmoro@gmail.com
 sakiasmoro@gmail.com
@@ -24,6 +22,6 @@ sakiasmoro@gmail.com
 +675 78336234
 
 
-#### ®™ Privacy policy
+
 
 
