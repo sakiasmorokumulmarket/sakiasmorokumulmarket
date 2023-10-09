@@ -1,7 +1,9 @@
-#### @kumulmarket
+
+ ### @kumulmarket
 Kumul Market is a Visual Arts and Physical Arts Marketing platform built to fast track the packages from Papua New Guinea to other countries as well as virse verser. The Concept is to make a marketing ecosystem for the Global economy and business operating systems.
 
-### B2B and P2P Trading
+
+## B2B and P2P Trading
 [The business operating system is Technically analyst to boost trap the trading Efficiently and Effectively
 
  ## AI Intergration 
