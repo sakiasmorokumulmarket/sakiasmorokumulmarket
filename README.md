@@ -6,11 +6,7 @@ Kumul Market is a Visual Arts and Physical Arts Marketing platform built to fast
 
 ### AI Intergration 
 
-To 🛠️ Intergrate Artificial Intelligence model into the system to drive Marketing sergement and utilize the trends to watchlist.[""GPT""
-           {{{
-             {{
-               { + GPT }}
-{
+To 🛠️ Intergrate Artificial Intelligence model into the system to drive Marketing sergement and utilize the trends to watchlist
 
           == Email
 
